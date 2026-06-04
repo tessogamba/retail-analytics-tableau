@@ -15,11 +15,11 @@ Visualising retail transaction data from a dbt + Snowflake analytics pipeline.
 
 Five interactive visualisations answering key business questions:
 
-- **Monthly Revenue Trend** — How does revenue change month over month?
-- **Top 10 Customers by Lifetime Value** — Who are the highest value customers?
-- **Order Status Breakdown** — What proportion of orders are complete vs. returned?
-- **Revenue by Payment Method** — Which payment methods drive the most revenue?
-- **Customer Order Frequency** — How many orders do customers typically place?
+- **Monthly Revenue Trend**: How does revenue change month over month?
+- **Top 10 Customers by Lifetime Value**: Who are the highest-value customers?
+- **Order Status Breakdown**: What proportion of orders are complete vs. returned?
+- **Revenue by Payment Method**: Which payment methods drive the most revenue?
+- **Customer Order Frequency**: How many orders do customers typically place?
 
 ## Data Source
 
@@ -30,7 +30,7 @@ Data sourced from the mart layer of the [retail-analytics-dbt](https://github.co
 | `fct_orders` | Order transactions with payment details | 99 |
 | `dim_customers` | Customer profiles with aggregated order metrics | 100 |
 
-Raw data modelled using dbt on Snowflake — staging and mart layers with 18 passing data quality tests.
+Raw data modelled using dbt on Snowflake; staging and mart layers with 18 passing data quality tests.
 
 ## Key Insights
 
