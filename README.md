@@ -1,4 +1,4 @@
-# Retail Analytics Dashboard — Coffee Shop
+# Retail Analytics Dashboard - Coffee Shop
 
 An interactive sales analytics dashboard built with **Tableau Public**, 
 Visualising retail transaction data from a dbt + Snowflake analytics pipeline.
@@ -50,6 +50,6 @@ Tableau Public, Microsoft Excel, SQL, dbt, Snowflake
 
 ## Author
 
-**Teresia Ogamba a.k.a Tess Ogamba** — Data Analyst & Analytics Engineer
+**Teresia Ogamba a.k.a Tess Ogamba** — Analytics Engineer & Data Analyst
 
 [LinkedIn](https://linkedin.com/in/tessogamba) | [Website](https://tessogamba.com) | [Tableau Public](https://public.tableau.com/app/profile/tessogamba)
