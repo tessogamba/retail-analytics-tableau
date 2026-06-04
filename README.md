@@ -38,7 +38,7 @@ Raw data modelled using dbt on Snowflake; staging and mart layers with 18 passin
 - Revenue peaked in January 2018 at £952, declining to £114 by May
 - Kathleen is the highest value customer at £398 lifetime spend
 - 97% order completion rate with only 2 returns
-- 70 customers placed zero orders, suggesting acquisition without conversion opportunity
+- 70 customers placed zero orders, suggesting an acquisition without conversion opportunity
 
 ## Tools
 
