@@ -54,4 +54,4 @@ Tableau Public, Microsoft Excel, SQL, dbt, Snowflake
 
 **Teresia Ogamba (Tess Ogamba)** — Analytics Engineer & Data Analyst
 
-[LinkedIn](https://linkedin.com/in/tessogamba) | [Website](https://tessogamba.com) | [Tableau Public](https://public.tableau.com/app/profile/tessogamba)
+[LinkedIn](https://linkedin.com/in/tessogamba) | [Website](https://tessogamba.com) | [GitHub](https://github.com/tessogamba)
