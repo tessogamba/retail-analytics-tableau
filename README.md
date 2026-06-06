@@ -47,9 +47,11 @@ Tableau Public, Microsoft Excel, SQL, dbt, Snowflake
 ## Related Projects
 
 - [retail-analytics-dbt](https://github.com/tessogamba/retail-analytics-dbt) — The dbt + Snowflake pipeline that produced this data
+- [financial-analytics-bigquery](https://github.com/tessogamba/financial-analytics-bigquery) — Financial analytics engineering project created with BigQuery and raw SQL
+- [financial-analytics-looker](https://github.com/tessogamba/financial-analytics-looker) — Looker Studio dashboard created on top of the BigQuery pipeline
 
 ## Author
 
-**Teresia Ogamba a.k.a Tess Ogamba** — Analytics Engineer & Data Analyst
+**Teresia Ogamba (Tess Ogamba)** — Analytics Engineer & Data Analyst
 
 [LinkedIn](https://linkedin.com/in/tessogamba) | [Website](https://tessogamba.com) | [Tableau Public](https://public.tableau.com/app/profile/tessogamba)
