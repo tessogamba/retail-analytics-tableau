@@ -51,4 +51,5 @@ Tableau Public, Microsoft Excel, SQL, dbt, Snowflake
 - [financial-analytics-looker](https://github.com/tessogamba/financial-analytics-looker) - Looker Studio dashboard created on top of the BigQuery pipeline
 
 ---
+
 *Built by Tess Ogamba · [github.com/tessogamba](https://github.com/tessogamba) · [LinkedIn](https://linkedin.com/in/tessogamba)*
