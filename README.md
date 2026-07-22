@@ -45,13 +45,10 @@ Raw data modelled using dbt on Snowflake; staging and mart layers with 18 passin
 Tableau Public, Microsoft Excel, SQL, dbt, Snowflake
 
 ## Related Projects
+- [case-management-analytics-pipeline-power-bi](https://github.com/tessogamba/case-management-analytics-pipeline-power-bi) - Production analytics pipeline built on a live SQL Server case management database with Power Query, dimensional modelling and DAX
+- [retail-analytics-dbt](https://github.com/tessogamba/retail-analytics-dbt) - The dbt + Snowflake pipeline that produced this data
+- [financial-analytics-bigquery](https://github.com/tessogamba/financial-analytics-bigquery) - Financial analytics engineering project created with BigQuery and raw SQL
+- [financial-analytics-looker](https://github.com/tessogamba/financial-analytics-looker) - Looker Studio dashboard created on top of the BigQuery pipeline
 
-- [retail-analytics-dbt](https://github.com/tessogamba/retail-analytics-dbt) — The dbt + Snowflake pipeline that produced this data
-- [financial-analytics-bigquery](https://github.com/tessogamba/financial-analytics-bigquery) — Financial analytics engineering project created with BigQuery and raw SQL
-- [financial-analytics-looker](https://github.com/tessogamba/financial-analytics-looker) — Looker Studio dashboard created on top of the BigQuery pipeline
-
-## Author
-
-**Teresia Ogamba (Tess Ogamba)** — Analytics Engineer & Data Analyst
-
-[LinkedIn](https://linkedin.com/in/tessogamba) | [Website](https://tessogamba.com) | [GitHub](https://github.com/tessogamba)
+---
+*Built by Tess Ogamba · [github.com/tessogamba](https://github.com/tessogamba) · [LinkedIn](https://linkedin.com/in/tessogamba)*
