@@ -1,7 +1,6 @@
 # Retail Analytics Dashboard - Coffee Shop
 
-An interactive sales analytics dashboard built with **Tableau Public**, 
-Visualising retail transaction data from a dbt + Snowflake analytics pipeline.
+An interactive sales analytics dashboard built with **Tableau Public** visualising retail transaction data from a dbt + Snowflake analytics pipeline.
 
 ## Live Dashboard
 
@@ -32,7 +31,7 @@ Data sourced from the mart layer of the [retail-analytics-dbt](https://github.co
 
 Raw data modelled using dbt on Snowflake; staging and mart layers with 18 passing data quality tests.
 
-## Key Insights
+## Sample Insights Surfaced
 
 - Credit card dominates revenue at £2,132 vs coupon at £1,688
 - Revenue peaked in January 2018 at £952, declining to £114 by May
@@ -45,11 +44,11 @@ Raw data modelled using dbt on Snowflake; staging and mart layers with 18 passin
 Tableau Public, Microsoft Excel, SQL, dbt, Snowflake
 
 ## Related Projects
+
 - [case-management-analytics-pipeline-power-bi](https://github.com/tessogamba/case-management-analytics-pipeline-power-bi) - Production analytics pipeline built on a live SQL Server case management database with Power Query, dimensional modelling and DAX
 - [retail-analytics-dbt](https://github.com/tessogamba/retail-analytics-dbt) - The dbt + Snowflake pipeline that produced this data
 - [financial-analytics-bigquery](https://github.com/tessogamba/financial-analytics-bigquery) - Financial analytics engineering project created with BigQuery and raw SQL
-- [financial-analytics-looker](https://github.com/tessogamba/financial-analytics-looker) - Looker Studio dashboard created on top of the BigQuery pipeline
+- [financial-analytics-looker](https://github.com/tessogamba/financial-analytics-looker) - Data Studio (formerly Looker Studio) dashboard created on top of the BigQuery pipeline
 
 ---
-
 *Built by Tess Ogamba · [github.com/tessogamba](https://github.com/tessogamba) · [LinkedIn](https://linkedin.com/in/tessogamba)*
