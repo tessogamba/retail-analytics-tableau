@@ -1,6 +1,6 @@
-# Retail Analytics Dashboard - Coffee Shop
+# Retail Analytics Dashboard | Tableau
 
-An interactive sales analytics dashboard built with **Tableau Public** visualising retail transaction data from a dbt + Snowflake analytics pipeline.
+An interactive Tableau dashboard for exploring customer behaviour, sales performance and revenue using retail data transformed with dbt and Snowflake.
 
 ## Live Dashboard
 
@@ -45,10 +45,10 @@ Tableau Public, Microsoft Excel, SQL, dbt, Snowflake
 
 ## Related Projects
 
-- [case-management-analytics-pipeline-power-bi](https://github.com/tessogamba/case-management-analytics-pipeline-power-bi) - Production analytics pipeline built on a live SQL Server case management database with Power Query, dimensional modelling and DAX
-- [retail-analytics-dbt](https://github.com/tessogamba/retail-analytics-dbt) - The dbt + Snowflake pipeline that produced this data
-- [financial-analytics-bigquery](https://github.com/tessogamba/financial-analytics-bigquery) - Financial analytics engineering project created with BigQuery and raw SQL
-- [financial-analytics-looker](https://github.com/tessogamba/financial-analytics-looker) - Data Studio (formerly Looker Studio) dashboard created on top of the BigQuery pipeline
+- [case-management-analytics-pipeline-power-bi](https://github.com/tessogamba/case-management-analytics-pipeline-power-bi) - Production SQL Server-to-Power BI reporting pipeline with dimensional modelling, DAX and governed data-quality controls
+- [retail-analytics-dbt](https://github.com/tessogamba/retail-analytics-dbt) - dbt and Snowflake transformation project that produced the dashboard datasets
+- [financial-analytics-bigquery](https://github.com/tessogamba/financial-analytics-bigquery) - Financial analytics project using BigQuery and reusable SQL models across 12 public companies and 23 metrics
+- [financial-analytics-looker-studio](https://github.com/tessogamba/financial-analytics-looker-studio) - Looker Studio dashboard for exploring financial growth, profitability and risk
 
 ---
 *Built by Tess Ogamba · [github.com/tessogamba](https://github.com/tessogamba) · [LinkedIn](https://linkedin.com/in/tessogamba)*
