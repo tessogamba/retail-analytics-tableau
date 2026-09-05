@@ -1,4 +1,4 @@
-# Retail Analytics Dashboard | Tableau
+# Retail Semantic & Visualisation Layer (Tableau)
 
 An interactive Tableau dashboard for exploring customer behaviour, sales performance and revenue using retail data transformed with dbt and Snowflake.
 
@@ -45,7 +45,7 @@ Tableau Public, Microsoft Excel, SQL, dbt, Snowflake
 
 ## Related Projects
 
-- [case-management-analytics-pipeline-power-bi](https://github.com/tessogamba/case-management-analytics-pipeline-power-bi) - Production SQL Server-to-Power BI reporting pipeline with dimensional modelling, DAX and governed data-quality controls
+- [case-management-analytics-platform](https://github.com/tessogamba/case-management-analytics-platform) - Production SQL Server-to-Power BI analytics platform with dimensional modelling, DAX and governed data-quality controls
 - [retail-analytics-dbt](https://github.com/tessogamba/retail-analytics-dbt) - dbt and Snowflake transformation project that produced the dashboard datasets
 - [financial-analytics-bigquery](https://github.com/tessogamba/financial-analytics-bigquery) - Financial analytics project using BigQuery and reusable SQL models across 12 public companies and 23 metrics
 - [financial-analytics-looker-studio](https://github.com/tessogamba/financial-analytics-looker-studio) - Looker Studio dashboard for exploring financial growth, profitability and risk
